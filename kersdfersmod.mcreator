@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "NetheriamondSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondSwordItem.java",
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_sword.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "kersdfersmod",
+    "modName": "kersdfersmod",
+    "version": "1.0.0",
+    "author": "mburli3381, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.kersdfersmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
