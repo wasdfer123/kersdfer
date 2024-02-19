@@ -31,7 +31,6 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.kersdfersmod.init.KersdfersmodModTabs;
 import net.mcreator.kersdfersmod.init.KersdfersmodModItems;
-import net.mcreator.kersdfersmod.init.KersdfersmodModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -50,8 +49,6 @@ public class KersdfersmodMod {
 	public KersdfersmodMod() {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-
-		KersdfersmodModBlocks.REGISTRY.register(bus);
 
 		KersdfersmodModItems.REGISTRY.register(bus);
 

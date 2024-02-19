@@ -24,14 +24,14 @@ public class KersdfersmodModTabs {
 
 		if (tabData.getTabKey() == CreativeModeTabs.COMBAT) {
 			tabData.accept(KersdfersmodModItems.NETHERIAMOND_SWORD.get());
+			tabData.accept(KersdfersmodModItems.NETHERIAMOND_ARMOR_HELMET.get());
+			tabData.accept(KersdfersmodModItems.NETHERIAMOND_ARMOR_CHESTPLATE.get());
+			tabData.accept(KersdfersmodModItems.NETHERIAMOND_ARMOR_LEGGINGS.get());
+			tabData.accept(KersdfersmodModItems.NETHERIAMOND_ARMOR_BOOTS.get());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.INGREDIENTS) {
 			tabData.accept(KersdfersmodModItems.NETHERIAMOND_INGOT.get());
-		}
-
-		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
-			tabData.accept(KersdfersmodModItems.POOPOOCACA.get());
 		}
 	}
 }
