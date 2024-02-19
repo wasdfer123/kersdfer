@@ -1,5 +1,13 @@
 {
+  "item.kersdfersmod.netheriamond_axe": "Netheriamond Axe",
+  "item.kersdfersmod.netheriamond_hoe": "Netheriamond Hoe",
   "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
+  "item.kersdfersmod.netheriamond_armor_chestplate": "Netheriamond Chestplate",
+  "item.kersdfersmod.netheriamond_pickaxe": "Netheriamond Pickaxe",
+  "item.kersdfersmod.netheriamond_shovel": "Netheriamond Shovel",
   "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot",
-  "item.kersdfersmod.netheriamond_alloy": "Netheriamond Alloy"
+  "item.kersdfersmod.netheriamond_armor_leggings": "Netheriamond Leggings",
+  "item.kersdfersmod.netheriamond_armor_boots": "Netheriamond Boots",
+  "item.kersdfersmod.netheriamond_alloy": "Netheriamond Alloy",
+  "item.kersdfersmod.netheriamond_armor_helmet": "Netheriamond Helmet"
 }

@@ -9,8 +9,8 @@
       "registry_name": "netheriamond_sword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_sword.json",
-          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondSwordItem.java"
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondSwordItem.java",
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_sword.json"
         ]
       }
     },
@@ -50,8 +50,8 @@
       "registry_name": "netheriamond_alloy",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondAlloyItem.java",
-          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_alloy.json"
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_alloy.json",
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondAlloyItem.java"
         ]
       }
     },
@@ -118,8 +118,8 @@
       "registry_name": "netheriamond_shovel",
       "metadata": {
         "files": [
-          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondShovelItem.java",
-          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_shovel.json"
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_shovel.json",
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondShovelItem.java"
         ]
       }
     },
@@ -146,11 +146,11 @@
       "registry_name": "netheriamond_armor",
       "metadata": {
         "files": [
-          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_armor_chestplate.json",
           "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondArmorItem.java",
-          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_armor_helmet.json",
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_armor_boots.json",
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_armor_chestplate.json",
           "src/main/resources/assets/kersdfersmod/models/item/netheriamond_armor_leggings.json",
-          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_armor_boots.json"
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_armor_helmet.json"
         ]
       }
     }
@@ -159,9 +159,17 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot",
+      "item.kersdfersmod.netheriamond_axe": "Netheriamond Axe",
+      "item.kersdfersmod.netheriamond_hoe": "Netheriamond Hoe",
       "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
-      "item.kersdfersmod.netheriamond_alloy": "Netheriamond Alloy"
+      "item.kersdfersmod.netheriamond_armor_chestplate": "Netheriamond Chestplate",
+      "item.kersdfersmod.netheriamond_pickaxe": "Netheriamond Pickaxe",
+      "item.kersdfersmod.netheriamond_shovel": "Netheriamond Shovel",
+      "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot",
+      "item.kersdfersmod.netheriamond_armor_leggings": "Netheriamond Leggings",
+      "item.kersdfersmod.netheriamond_armor_boots": "Netheriamond Boots",
+      "item.kersdfersmod.netheriamond_alloy": "Netheriamond Alloy",
+      "item.kersdfersmod.netheriamond_armor_helmet": "Netheriamond Helmet"
     }
   },
   "foldersRoot": {
