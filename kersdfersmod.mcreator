@@ -50,6 +50,59 @@
           "src/main/java/net/mcreator/kersdfersmod/world/teleporter/PoopoocacaPortalShape.java"
         ]
       }
+    },
+    {
+      "name": "NetheriamondSwordR",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_sword_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kersdfersmod/recipes/netheriamond_sword_r.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriamondAlloy",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_alloy",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondAlloyItem.java",
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_alloy.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriamondAlloyR",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_alloy_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kersdfersmod/recipes/netheriamond_alloy_r.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriamondIngotR",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_ingot_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kersdfersmod/recipes/netheriamond_ingot_r.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -58,7 +111,8 @@
     "en_us": {
       "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
       "item.kersdfersmod.poopoocaca": "Poopoocaca Portal Igniter",
-      "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot"
+      "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot",
+      "item.kersdfersmod.netheriamond_alloy": "Netheriamond Alloy"
     }
   },
   "foldersRoot": {

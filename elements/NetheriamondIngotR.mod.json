@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NetheriamondAlloy"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NetheriamondAlloy"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "CUSTOM:NetheriamondAlloy"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NetheriamondAlloy"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:NetheriamondIngot"
+    },
+    "name": "netheriamond_ingot_r",
+    "namespace": "mod"
+  }
+}
