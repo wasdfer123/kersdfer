@@ -3,6 +3,7 @@
     {
       "name": "NetheriamondSword",
       "type": "tool",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netheriamond_sword",
@@ -12,13 +13,37 @@
           "src/main/resources/assets/kersdfersmod/models/item/netheriamond_sword.json"
         ]
       }
+    },
+    {
+      "name": "Poopoocaca",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poopoocaca",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kersdfersmod/models/block/poopoocaca_portal_ew.json",
+          "src/main/java/net/mcreator/kersdfersmod/block/PoopoocacaPortalBlock.java",
+          "src/main/resources/data/kersdfersmod/dimension_type/poopoocaca.json",
+          "src/main/java/net/mcreator/kersdfersmod/world/teleporter/PoopoocacaTeleporter.java",
+          "src/main/java/net/mcreator/kersdfersmod/item/PoopoocacaItem.java",
+          "src/main/resources/data/kersdfersmod/dimension/poopoocaca.json",
+          "src/main/java/net/mcreator/kersdfersmod/world/dimension/PoopoocacaDimension.java",
+          "src/main/resources/assets/kersdfersmod/blockstates/poopoocaca_portal.json",
+          "src/main/resources/assets/kersdfersmod/models/item/poopoocaca.json",
+          "src/main/java/net/mcreator/kersdfersmod/world/teleporter/PoopoocacaPortalShape.java",
+          "src/main/resources/assets/kersdfersmod/models/block/poopoocaca_portal_ns.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword"
+      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
+      "item.kersdfersmod.poopoocaca": "Poopoocaca Portal Igniter"
     }
   },
   "foldersRoot": {
