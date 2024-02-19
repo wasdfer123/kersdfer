@@ -174,7 +174,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "nethergold",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "kersdfersmod",
