@@ -50,6 +50,19 @@
           "src/main/java/net/mcreator/kersdfersmod/world/teleporter/PoopoocacaPortalShape.java"
         ]
       }
+    },
+    {
+      "name": "NetheriamondSwordR",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_sword_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kersdfersmod/recipes/netheriamond_sword_r.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
