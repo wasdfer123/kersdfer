@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bbb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "kersdfersmod:nether_gold_alloy",
+    "count": 1
+  }
+}

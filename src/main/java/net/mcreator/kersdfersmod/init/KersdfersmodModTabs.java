@@ -33,6 +33,8 @@ public class KersdfersmodModTabs {
 		if (tabData.getTabKey() == CreativeModeTabs.INGREDIENTS) {
 			tabData.accept(KersdfersmodModItems.NETHERIAMOND_INGOT.get());
 			tabData.accept(KersdfersmodModItems.NETHERIAMOND_ALLOY.get());
+			tabData.accept(KersdfersmodModItems.NETHER_GOLD.get());
+			tabData.accept(KersdfersmodModItems.NETHER_GOLD_ALLOY.get());
 		}
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {

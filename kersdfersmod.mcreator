@@ -153,6 +153,63 @@
           "src/main/resources/assets/kersdfersmod/models/item/netheriamond_armor_helmet.json"
         ]
       }
+    },
+    {
+      "name": "NetherGold",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_gold",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kersdfersmod/models/item/nether_gold.json",
+          "src/main/java/net/mcreator/kersdfersmod/item/NetherGoldItem.java"
+        ]
+      },
+      "path": "~/nethergold"
+    },
+    {
+      "name": "NetherGoldAlloy",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_gold_alloy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kersdfersmod/models/item/nether_gold_alloy.json",
+          "src/main/java/net/mcreator/kersdfersmod/item/NetherGoldAlloyItem.java"
+        ]
+      },
+      "path": "~/nethergold"
+    },
+    {
+      "name": "NetherGoldAlloyRecepie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_gold_alloy_recepie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kersdfersmod/recipes/nether_gold_alloy_recepie.json"
+        ]
+      }
+    },
+    {
+      "name": "NetherGoldRecepie",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_gold_recepie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kersdfersmod/recipes/nether_gold_recepie.json"
+        ]
+      },
+      "path": "~/nethergold"
     }
   ],
   "variable_elements": [],
@@ -160,16 +217,18 @@
   "language_map": {
     "en_us": {
       "item.kersdfersmod.netheriamond_axe": "Netheriamond Axe",
-      "item.kersdfersmod.netheriamond_hoe": "Netheriamond Hoe",
-      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
+      "item.kersdfersmod.nether_gold_alloy": "Nether Gold Alloy",
       "item.kersdfersmod.netheriamond_armor_chestplate": "Netheriamond Chestplate",
       "item.kersdfersmod.netheriamond_pickaxe": "Netheriamond Pickaxe",
-      "item.kersdfersmod.netheriamond_shovel": "Netheriamond Shovel",
       "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot",
-      "item.kersdfersmod.netheriamond_armor_leggings": "Netheriamond Leggings",
       "item.kersdfersmod.netheriamond_armor_boots": "Netheriamond Boots",
+      "item.kersdfersmod.netheriamond_hoe": "Netheriamond Hoe",
+      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
+      "item.kersdfersmod.netheriamond_shovel": "Netheriamond Shovel",
+      "item.kersdfersmod.netheriamond_armor_leggings": "Netheriamond Leggings",
       "item.kersdfersmod.netheriamond_alloy": "Netheriamond Alloy",
-      "item.kersdfersmod.netheriamond_armor_helmet": "Netheriamond Helmet"
+      "item.kersdfersmod.netheriamond_armor_helmet": "Netheriamond Helmet",
+      "item.kersdfersmod.nether_gold": "Nether Gold"
     }
   },
   "foldersRoot": {

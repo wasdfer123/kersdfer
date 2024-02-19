@@ -18,6 +18,8 @@ import net.mcreator.kersdfersmod.item.NetheriamondHoeItem;
 import net.mcreator.kersdfersmod.item.NetheriamondAxeItem;
 import net.mcreator.kersdfersmod.item.NetheriamondArmorItem;
 import net.mcreator.kersdfersmod.item.NetheriamondAlloyItem;
+import net.mcreator.kersdfersmod.item.NetherGoldItem;
+import net.mcreator.kersdfersmod.item.NetherGoldAlloyItem;
 import net.mcreator.kersdfersmod.KersdfersmodMod;
 
 public class KersdfersmodModItems {
@@ -33,4 +35,6 @@ public class KersdfersmodModItems {
 	public static final RegistryObject<Item> NETHERIAMOND_SHOVEL = REGISTRY.register("netheriamond_shovel", () -> new NetheriamondShovelItem());
 	public static final RegistryObject<Item> NETHERIAMOND_AXE = REGISTRY.register("netheriamond_axe", () -> new NetheriamondAxeItem());
 	public static final RegistryObject<Item> NETHERIAMOND_HOE = REGISTRY.register("netheriamond_hoe", () -> new NetheriamondHoeItem());
+	public static final RegistryObject<Item> NETHER_GOLD = REGISTRY.register("nether_gold", () -> new NetherGoldItem());
+	public static final RegistryObject<Item> NETHER_GOLD_ALLOY = REGISTRY.register("nether_gold_alloy", () -> new NetherGoldAlloyItem());
 }
