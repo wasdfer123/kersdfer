@@ -13,6 +13,7 @@ import net.minecraft.world.item.Item;
 import net.mcreator.kersdfersmod.item.PoopoocacaItem;
 import net.mcreator.kersdfersmod.item.NetheriamondSwordItem;
 import net.mcreator.kersdfersmod.item.NetheriamondIngotItem;
+import net.mcreator.kersdfersmod.item.NetheriamondAlloyItem;
 import net.mcreator.kersdfersmod.KersdfersmodMod;
 
 public class KersdfersmodModItems {
@@ -20,4 +21,5 @@ public class KersdfersmodModItems {
 	public static final RegistryObject<Item> NETHERIAMOND_INGOT = REGISTRY.register("netheriamond_ingot", () -> new NetheriamondIngotItem());
 	public static final RegistryObject<Item> POOPOOCACA = REGISTRY.register("poopoocaca", () -> new PoopoocacaItem());
 	public static final RegistryObject<Item> NETHERIAMOND_SWORD = REGISTRY.register("netheriamond_sword", () -> new NetheriamondSwordItem());
+	public static final RegistryObject<Item> NETHERIAMOND_ALLOY = REGISTRY.register("netheriamond_alloy", () -> new NetheriamondAlloyItem());
 }
