@@ -216,8 +216,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.kersdfersmod.netheriamond_axe": "Netheriamond Axe",
       "item.kersdfersmod.nether_gold_alloy": "Nether Gold Alloy",
+      "item.kersdfersmod.netheriamond_axe": "Netheriamond Axe",
       "item.kersdfersmod.netheriamond_armor_chestplate": "Netheriamond Chestplate",
       "item.kersdfersmod.netheriamond_pickaxe": "Netheriamond Pickaxe",
       "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot",
