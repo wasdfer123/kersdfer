@@ -29,5 +29,9 @@ public class KersdfersmodModTabs {
 		if (tabData.getTabKey() == CreativeModeTabs.INGREDIENTS) {
 			tabData.accept(KersdfersmodModItems.NETHERIAMOND_INGOT.get());
 		}
+
+		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
+			tabData.accept(KersdfersmodModItems.POOPOOCACA.get());
+		}
 	}
 }
