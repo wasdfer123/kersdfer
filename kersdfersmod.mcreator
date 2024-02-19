@@ -3,6 +3,7 @@
     {
       "name": "NetheriamondSword",
       "type": "tool",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netheriamond_sword",
@@ -12,13 +13,28 @@
           "src/main/resources/assets/kersdfersmod/models/item/netheriamond_sword.json"
         ]
       }
+    },
+    {
+      "name": "NetheriamondIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_ingot.json",
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondIngotItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword"
+      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
+      "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot"
     }
   },
   "foldersRoot": {
