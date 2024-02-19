@@ -77,6 +77,32 @@
           "src/main/resources/assets/kersdfersmod/models/item/netheriamond_alloy.json"
         ]
       }
+    },
+    {
+      "name": "NetheriamondAlloyR",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_alloy_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kersdfersmod/recipes/netheriamond_alloy_r.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriamondIngotR",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_ingot_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/kersdfersmod/recipes/netheriamond_ingot_r.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
