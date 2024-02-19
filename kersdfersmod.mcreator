@@ -103,14 +103,74 @@
           "src/main/resources/data/kersdfersmod/recipes/netheriamond_ingot_r.json"
         ]
       }
+    },
+    {
+      "name": "NetheriamondPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_pickaxe.json",
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondPickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NetheriamondShovel",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondShovelItem.java",
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_shovel.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriamondAxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_axe.json",
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondAxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NetheriamondHoe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriamond_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/kersdfersmod/models/item/netheriamond_hoe.json",
+          "src/main/java/net/mcreator/kersdfersmod/item/NetheriamondHoeItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.kersdfersmod.netheriamond_axe": "Netheriamond Axe",
+      "item.kersdfersmod.netheriamond_hoe": "Netheriamond Hoe",
       "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
+      "item.kersdfersmod.netheriamond_pickaxe": "Netheriamond Pickaxe",
       "item.kersdfersmod.poopoocaca": "Poopoocaca Portal Igniter",
+      "item.kersdfersmod.netheriamond_shovel": "Netheriamond Shovel",
       "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot",
       "item.kersdfersmod.netheriamond_alloy": "Netheriamond Alloy"
     }

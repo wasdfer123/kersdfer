@@ -32,6 +32,10 @@ public class KersdfersmodModTabs {
 
 		if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
 			tabData.accept(KersdfersmodModItems.POOPOOCACA.get());
+			tabData.accept(KersdfersmodModItems.NETHERIAMOND_PICKAXE.get());
+			tabData.accept(KersdfersmodModItems.NETHERIAMOND_SHOVEL.get());
+			tabData.accept(KersdfersmodModItems.NETHERIAMOND_AXE.get());
+			tabData.accept(KersdfersmodModItems.NETHERIAMOND_HOE.get());
 		}
 	}
 }

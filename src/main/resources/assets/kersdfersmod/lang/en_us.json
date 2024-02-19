@@ -1,5 +1,10 @@
 {
+  "item.kersdfersmod.netheriamond_axe": "Netheriamond Axe",
+  "item.kersdfersmod.netheriamond_hoe": "Netheriamond Hoe",
   "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
+  "item.kersdfersmod.netheriamond_pickaxe": "Netheriamond Pickaxe",
   "item.kersdfersmod.poopoocaca": "Poopoocaca Portal Igniter",
-  "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot"
+  "item.kersdfersmod.netheriamond_shovel": "Netheriamond Shovel",
+  "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot",
+  "item.kersdfersmod.netheriamond_alloy": "Netheriamond Alloy"
 }
