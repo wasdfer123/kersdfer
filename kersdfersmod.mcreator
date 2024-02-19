@@ -3,6 +3,7 @@
     {
       "name": "NetheriamondSword",
       "type": "tool",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "netheriamond_sword",
@@ -55,7 +56,9 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword"
+      "item.kersdfersmod.netheriamond_sword": "Netheriamond Sword",
+      "item.kersdfersmod.poopoocaca": "Poopoocaca Portal Igniter",
+      "item.kersdfersmod.netheriamond_ingot": "Netheriamond Ingot"
     }
   },
   "foldersRoot": {
