@@ -3,7 +3,7 @@
   "category": "misc",
   "pattern": [
     "aba",
-    "bbb",
+    "bcb",
     "aba"
   ],
   "key": {
@@ -12,6 +12,9 @@
     },
     "b": {
       "item": "minecraft:netherite_scrap"
+    },
+    "c": {
+      "item": "minecraft:gold_nugget"
     }
   },
   "result": {
